@@ -15,3 +15,9 @@ The actual count.
 An input loop will suffice for card entry. 
 The mathematics are trivial. 
 However, both focus and memory are critical.
+
+The business logic comes from the folowing youtube video:
+ 
+ > How to Count Cards (and Bring Down the House) 
+>
+> https://www.youtube.com/watch?v=SHK2C-QQR-k&t=610s&ab_channel=BlackjackApprenticeship
